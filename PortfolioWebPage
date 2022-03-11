@@ -24,6 +24,7 @@
           <section>
             <header>
               <h3>Hello, my name is Khadine Wright :)</h3>
+              
             </header>
             <p>I am a software engineer in Atlanta, GA.</p>
             <p>I have a few interests that include:</p>
@@ -51,11 +52,11 @@
           </header>
           <!--Links to my profiles-->
           <p>Need to reach me? Please feel free to find me here:</p>
-          <ul>
+          <ol>
           <li><a href="www.linkedin.com/in/khadine-wright-187621182"</a>LinkedIn</li>
           <li><a href="https://github.com/khadiwri"</a>GitHub</li>
           <li><a href="khadine.s.wright@gmail.com"</a>Email Address</li>
-          </ul>
+          </ol>
           </section>
         </article>
       </div>
