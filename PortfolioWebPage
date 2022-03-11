@@ -52,9 +52,9 @@
           <!--Links to my profiles-->
           <p>Need to reach me? Please feel free to find me here:</p>
           <ul>
-          <li href="www.linkedin.com/in/khadine-wright-187621182">LinkedIn</li>
-          <li href="https://github.com/khadiwri">GitHub</li>
-          <li href="khadine.s.wright@gmail.com">Email Address</li>
+          <li><a href="www.linkedin.com/in/khadine-wright-187621182"</a>LinkedIn</li>
+          <li><a href="https://github.com/khadiwri"</a>GitHub</li>
+          <li><a href="khadine.s.wright@gmail.com"</a>Email Address</li>
           </ul>
           </section>
         </article>
@@ -63,9 +63,9 @@
 
     <footer>
       <div>
-        <nav>
+        
           <p>Thank you for reading.</p>
-        </nav>
+        
       </div>
     </footer>
 
