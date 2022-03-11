@@ -1,0 +1,30 @@
+body {
+  box-sizing: border-box;
+  background-color: #d2d8f7;
+  margin: 25px 15px;
+  padding: 25px 15px;
+}
+
+h1 {
+  color: #823dd1;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 45px;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+h3 {
+  color: #636eb0;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+  color: black;
+  line-height: 20px;
+}
