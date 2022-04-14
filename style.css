@@ -1,22 +1,35 @@
-body {
+.header-background {
+  background-color: #636eb0;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.body-background {
   box-sizing: border-box;
   background-color: #d2d8f7;
   margin: 25px 15px;
   padding: 25px 15px;
 }
 
-h1 {
-  color: #823dd1;
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 45px;
-  letter-spacing: 2px;
+.text-centered {
   text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.wrapper {
+  width: 300px;
+  margin: auto;
 }
 
 h2 {
   color: white;
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
+  text-decoration: underline wavy #636eb0 2.5px;
 }
 
 h3 {
@@ -27,4 +40,12 @@ h3 {
 p {
   color: black;
   line-height: 20px;
+}
+
+.text-dec {
+  text-decoration: none;
+}
+
+img {
+  border-radius: 50%;
 }
