@@ -39,6 +39,10 @@
   background-color: white;
 }
 
+.nav-bar a {
+  color: white;
+}
+
 h2 {
   color: white;
   font-family: 'Garamond', Times, serif;
