@@ -1,3 +1,4 @@
+/*header info for all pages*/
 .header-background {
   background-color: #636eb0;
   color: white;
@@ -6,12 +7,13 @@
   margin: 10px 150px 10px 150px;
   padding: 25px 100px 15px 100px;
 }
-
+/*header font size for my home page*/
 .header-font {
   font-size: 50px;
   font-weight: bold;
 }
 
+/*set sizing for main block on all pages*/
 .body-background {
   margin: 25px 150px 25px 150px;
   background-color: #d2d8f7;
@@ -26,6 +28,7 @@
   text-align: right;
 }
 
+/*footer settings*/
 .footer-set {
   text-align: left;
   font-style: oblique;
@@ -43,6 +46,16 @@
   color: white;
 }
 
+/*When the link is previously clicked on it will be this color*/
+a:visited {
+  color:#050E99;
+}
+
+/*When mouse sits on link, it will show this color*/
+a:hover {
+  color:hotpink
+}
+
 h2 {
   color: white;
   font-family: 'Garamond', Times, serif;
@@ -56,6 +69,7 @@ h3 {
   text-align: center;
 }
 
+/*fixed for main content*/
 p {
   color: black;
   line-height: 20px;
@@ -66,16 +80,19 @@ p {
   font-family: 'Times New Roman', Times, serif;
 }
 
+/*portfolio picture on home page*/
 img {
   border-radius: 50%;
   border: 7px solid #636eb0;
 }
 
+/*about page unordered list styles*/
 ul.a {
   list-style-type: circle;
   list-style-position: inside;
 }
 
+/*contact page ordered list style*/
 ol.a {
   list-style-type: none;
   text-decoration: none;
